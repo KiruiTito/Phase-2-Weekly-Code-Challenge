@@ -1,7 +1,4 @@
-
- 
-
-import './App.css';
+import './App.css'
 import TransactionForm from './TransactionForm';
 import Transaction from './Transaction';
 
@@ -22,4 +19,4 @@ function App() {
 
 
 
-export default App
+export default App;

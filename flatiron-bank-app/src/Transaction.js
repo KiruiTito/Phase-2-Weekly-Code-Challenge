@@ -5,7 +5,7 @@ function Transaction(transaction) {
   const [search, setSearch] = useState('');
 
   useEffect(() => {
-    fetch('http://localhost:5000/transactions')
+    fetch('http://localhost:3000/transactions')
       .then(response => response.json())
       .then(data => setTransactions(data))
   }, []);

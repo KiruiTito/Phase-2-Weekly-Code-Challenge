@@ -22,6 +22,8 @@ function TransactionForm() {
     
   };
 
+ 
+
   return (
     <>
       <TransactionTable transactions={transactions} />

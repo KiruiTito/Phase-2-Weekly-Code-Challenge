@@ -1,7 +1,7 @@
 body{
-    background-image: url('https://images.unsplash.com/photo-1475070929565-c985b496cb9f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YWVzdGhldGljJTIwbmF0dXJlfGVufDB8fDB8fA%3D%3D&w=1000&q=80');
+    background-image: url('https://thumbor.forbes.com/thumbor/fit-in/900x510/https://www.forbes.com/advisor/wp-content/uploads/2022/05/getty_chase_bank_promotions.jpeg');
     background-size: cover;
-    filter:brightness(50%);
+    filter:brightness(40%);
 }
 
 h1{
@@ -21,7 +21,7 @@ table:last-child{
     padding-left: 100px;
     padding-top: 30px;
     font-size: 25px;
-    color:white ;
+    color:rgb(15, 15, 15) ;
 }
 
 form{
